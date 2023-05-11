@@ -1,0 +1,4 @@
+ narges ghanbari gorji 2002 1 2 1 behshahr s a 8 09898987789 narges 19 2021 6 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0   pres 1 1 0 0 0 non non 
+ farangis ghanbari gorji 2012 3 2 1 rehran s a 8 01123231123 farangis 9 2021 6 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0   pres 0 0 0 0 0 non coffee 
+ iraj maleki p 2000 2 3 0 sari valasr st 5 09897978898 iraj 21 2021 6 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  doa kardan' 0 1 1 1 1 non non 
+ rahim rahmati r 1980 3 2 0 ee rr ee 9 09909878898 rahim 41 2021 6 14 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  pres 1 1 0 0 0 non coffee 
